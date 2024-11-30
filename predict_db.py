@@ -115,4 +115,4 @@ def handle_scaler(df):
 def predict_db(list_input):
     prediction_input = processing_input(list_input)
     prediction = best_model.predict(prediction_input)
-    return "The annual premium insurance amount approximately  $" + str(int(prediction[0]))
+    return f"The annual insurance premium is about $  {str(int(prediction[0]))}"
