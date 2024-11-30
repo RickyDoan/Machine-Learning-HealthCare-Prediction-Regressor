@@ -15,7 +15,7 @@ This project is the predict webpage testing system that consists of a Streamlit 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/tommydoan/Machine-Learning-Health-Care-Prediction
+   git clone https://github.com/tommydoan/Machine-Learning-HealthCare-Prediction
    ```
 1. **Install dependencies:**:   
    ```commandline
