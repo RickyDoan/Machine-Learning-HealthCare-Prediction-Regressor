@@ -1,4 +1,4 @@
-Python==3.11.5
+streamlit>=1.0
 Pandas == 2.2.2
 xgboost==2.1.2
 streamlit==1.39.0
