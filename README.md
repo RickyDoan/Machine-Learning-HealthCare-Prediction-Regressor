@@ -7,6 +7,7 @@ This project is the predict webpage testing system that consists of a Streamlit 
 
 * I’ve developed a Health Care Premium Prediction App using machine learning to estimate annual health insurance premiums
 based on user inputs like age, medical history, income, lifestyle, and more.
+
 * The app uses a predictive model trained on various factors such as stress levels, physical activity,
 and medical conditions to generate premium predictions, helping users make informed decisions about their insurance plans.
   
