@@ -5,23 +5,13 @@ This project is the predict webpage testing system that consists of a Streamlit 
 
 ## Project Structure
 
-- **frontend/**: Contains the Streamlit application code.
-- **backend/**: Contains the scaler, model training code
-- **requirements.txt**: Lists the required Python packages.
-- **README.md**: Provides an overview and instructions for the project.
-
-
-## Setup Instructions
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/tommydoan/Machine-Learning-HealthCare-Prediction
-   ```
-1. **Install dependencies:**:   
-   ```commandline
-    pip install -r requirements.txt
-   ```
-1. **Run the Streamlit app:**:   
-   ```commandline
-    streamlit run main.py
-   ```
+* I’ve developed a Health Care Premium Prediction App using machine learning to estimate annual health insurance premiums
+* based on user inputs like age, medical history, income, lifestyle, and more.
+* The app uses a predictive model trained on various factors such as stress levels, physical activity,
+* and medical conditions to generate premium predictions, helping users make informed decisions about their insurance plans.
+  
+### 🌟 The Features I like most is :
+* Easy-to-use interface with dynamic inputs
+* Predicts insurance premiums based on personal data
+* Built with Streamlit and deployed on Streamlit Cloud
+* Hope you enjoy trying it out, and feel free to play around with the inputs to see how the predictions change! 😄
