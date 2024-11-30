@@ -11,7 +11,7 @@ based on user inputs like age, medical history, income, lifestyle, and more.
 * The app uses a predictive model trained on various factors such as stress levels, physical activity,
 and medical conditions to generate premium predictions, helping users make informed decisions about their insurance plans.
   
-### 🌟 The Features I like most is :
+### 🌟 What I love most about this project is:
 * Easy-to-use interface with dynamic inputs
 * Predicts insurance premiums based on personal data
 * Built with Streamlit and deployed on Streamlit Cloud
