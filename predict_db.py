@@ -65,7 +65,7 @@ def processing_input(list_input):
             df['Age'] = data/100
         elif key == 'Number Of Dependants':
             #  'Number of Dependants': number_of_dependants,
-            df['Number Of Dependants'] = data/100
+            df['Number Of Dependants'] = data/72
         elif key == 'Insurance Plan':
             df['Insurance_Plan'] = (insurance_plan.get(data, 1))/3
         elif key == 'Income (USD) Per Month':
