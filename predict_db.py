@@ -62,10 +62,10 @@ def processing_input(list_input):
     df['total_risk_disease'] = risk_disease(list_input['Medical History'])
     for key, data in list_input.items():
         if key == 'Age':
-            df['Age'] = data/100
+            df['Age'] = data/72
         elif key == 'Number Of Dependants':
             #  'Number of Dependants': number_of_dependants,
-            df['Number Of Dependants'] = data/72
+            df['Number Of Dependants'] = data/5
         elif key == 'Insurance Plan':
             df['Insurance_Plan'] = (insurance_plan.get(data, 1))/3
         elif key == 'Income (USD) Per Month':
