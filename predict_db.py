@@ -101,14 +101,6 @@ def processing_input(list_input):
         df = handle_scaler(df)
     return df
 
-def handle_scaler(df):
-    # scaler = scaler_object['scaler']
-    # list_scaler = scaler_object['list_scaler']
-    # df['Income_Level'] = 0
-    # df[list_scaler] = scaler.transform(df[list_scaler])
-    # df.drop('Income_Level', axis=1, inplace=True)
-    return df
-
 
 def predict_db(list_input):
     prediction_input = processing_input(list_input)
