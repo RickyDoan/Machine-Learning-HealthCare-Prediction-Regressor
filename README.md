@@ -1,7 +1,7 @@
 # Predicting the Health Care Package Using Machine Learning
 ### Streamlit url deployment : https://ricky-ml-heathcare-prediction.streamlit.app/
 ![](https://github.com/RickyDoan/Machine-Learning-HealthCare-Prediction-Regressor/blob/main/health_care.gif)
-This project is the predict webpage testing system that consists of a Streamlit frontend application and using Regression model for training.
+* This project is the predict webpage testing system that consists of a Streamlit frontend application and using Regression model for training.
 
 ## Project Structure
 
