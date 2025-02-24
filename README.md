@@ -1,4 +1,4 @@
-# Predicting the Health Care Package Using Machine Learning - Python - Streamlit UI interface
+# Predicting the Health Care Package Using Machine Learning
 ### Streamlit url deployment : https://ricky-ml-heathcare-prediction.streamlit.app/
 
 This project is the predict webpage testing system that consists of a Streamlit frontend application and using Regression model for training.
